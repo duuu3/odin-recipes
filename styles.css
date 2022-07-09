@@ -1,5 +1,5 @@
 * {
-    font-family: sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 /* homepage */
@@ -20,6 +20,14 @@
     width: 350px;
 }
 
+.pre-main-body {
+    background-color: rgb(255, 236, 240);
+}
+
 .whole-recipe-body {
     background-color: rgb(248, 212, 218);
+}
+
+.recipe-steps {
+    background-color: rgb(255, 179, 191);
 }
